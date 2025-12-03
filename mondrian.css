@@ -1,0 +1,120 @@
+.container{
+    display:grid;
+    border:25px solid yellow;
+    width:auto;
+    height:auto;
+    position:absolute;
+}
+body{
+    background-color:rgb(229, 190, 255);
+  
+}
+.box1{
+    border: 1px solid black;
+    background-color: aquamarine;
+    grid-column:150;
+    grid-row:200;
+    height:200px;
+    width:100px;
+    top: 40px;
+
+}
+.box2{
+    border: 1px solid black;
+    background-color: rgb(229, 190, 255);
+    grid-column:300;
+    grid-row: 100;
+    height:100px;
+    top:100px;
+    left:50px;
+    top:40px;
+
+}
+.box3{
+    background-color: green;
+    border: 1px solid black;
+    grid-column:300;
+    grid-row:200;
+    height:200px;
+    width:100px;
+
+}
+.box4{
+    background-color: rgb(38, 255, 0);
+    border: 1px solid black;
+    grid-column:400;
+    grid-row:200;
+    height:200px;
+    width:100px;
+    
+
+}
+.box5{
+    background-color: rgb(108, 255, 233);
+    border: 1px solid black;
+    grid-column:300;
+    grid-row:200;
+    height:100px;
+    width:400px;
+   
+
+}
+.box6{
+    background-color: rgb(241, 255, 113);
+    border: 1px solid black;
+    grid-column:300;
+    grid-row:200;
+    height:100px;
+    width:200px;
+   
+
+}
+.box7{
+    background-color: rgb(0, 181, 226);
+    border: 1px solid black;
+    grid-column:300;
+    grid-row:100;
+    height:100px;
+    width:200px;
+    
+
+}
+.box8{
+    background-color: rgb(17, 124, 255);
+    border: 1px solid black;
+    grid-column:400;
+    grid-row:100;
+    height:100px;
+    width:200px;
+ 
+}
+.box9{
+    background-color: rgb(4, 255, 25);
+    border: 1px solid black;
+    grid-column:300;
+    grid-row:200;
+    height:100px;
+    width:200px;
+    
+}
+.box10{
+    background-color: rgb(217, 113, 255);
+    border: 1px solid black;
+    grid-column:300;
+    grid-row:200;
+    height:100px;
+    width:200px;
+    
+}
+.red{
+    background-color: bisque;
+    border: 1px solid black;
+    width:100px;
+    height:200px;
+    position:absolute;
+}
+
+/* .internalbox{
+    background-color: blue;
+    height: 20px;
+} */
